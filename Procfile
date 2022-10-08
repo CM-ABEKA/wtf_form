@@ -1,1 +1,1 @@
-web: gunicorn app:wtf_forms/app
+web: gunicorn app:app
